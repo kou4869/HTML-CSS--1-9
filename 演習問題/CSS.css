@@ -23,7 +23,7 @@ main {
   position: relative;
 }
 
-.step-box:lost-child {
+.step-box:last-child {
   margin-right: 0;
 }
 
